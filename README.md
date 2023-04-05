@@ -3,11 +3,11 @@ A (crappy) calculator written in julia.
 
 # Usage instructions
 1. Enter a function
-   1a. mul = Multiplies x and y
-   1b. sub = Subtracts y from x
-   1c. add = Adds x and y
-   1d. div = Divides x by y (result will be a float)
-   1e. exit = Exits program
+   1a. mul = Multiplies x and y \n
+   1b. sub = Subtracts y from x \n
+   1c. add = Adds x and y \n
+   1d. div = Divides x by y (result will be a float) \n
+   1e. exit = Exits program \n
 2. When prompted, supply **integer** value for x and y
 3. When you have finished using the program, use the exit function
 
