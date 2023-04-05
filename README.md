@@ -3,12 +3,12 @@ A (crappy) calculator written in julia.
 
 # Usage instructions
 1. Enter a function
-   1a. mul = Multiplies x and y \n
-   1b. sub = Subtracts y from x \n
-   1c. add = Adds x and y \n
-   1d. div = Divides x by y (result will be a float) \n
-   1e. exit = Exits program \n
-2. When prompted, supply **integer** value for x and y
+   1a. mul = Multiplies x and y <br/>
+   1b. sub = Subtracts y from x <br/>
+   1c. add = Adds x and y <br/>
+   1d. div = Divides x by y (result will be a float) <br/>
+   1e. exit = Exits program <br/>
+2. When prompted, supply an **integer** value for x and y
 3. When you have finished using the program, use the exit function
 
 # Installation instructions on Linux
