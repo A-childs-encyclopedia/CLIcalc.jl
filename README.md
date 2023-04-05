@@ -2,7 +2,7 @@
 A (crappy) calculator written in julia. 
 
 # Usage instructions
-1. Enter a function
+1. Enter a function <br/>
    1a. mul = Multiplies x and y <br/>
    1b. sub = Subtracts y from x <br/>
    1c. add = Adds x and y <br/>
